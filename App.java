@@ -1,4 +1,4 @@
-public class App this is a change this is second change
+public class App
 {
 	private int uid;
 	private String name;
